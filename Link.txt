@@ -1,0 +1,39 @@
+JSON and Codable Protocol
+
+https://www.youtube.com/watch?v=ntJDXuKvYG0&list=PLBn01m5Vbs4DKrm1gwIr_a-0B7yvlTZP6&ab_channel=StewartLynch
+
+
+
+
+Antoine Van Der Lee Blog post:
+https://www.avanderlee.com/swift/json-parsing-decoding/
+
+JSON Formatter and Validator:
+https://jsonformatter.curiousconcept.com/
+
+NSDateFormatter:
+https://nsdateformatter.com/
+
+UseYourLoaf Blog Post:
+https://useyourloaf.com/blog/swift-codable-with-custom-dates/
+
+HackingWithSwift Codable Cheat Sheet:
+https://www.hackingwithswift.com/articles/119/codable-cheat-sheet
+
+GitHub API Documentation:
+https://docs.github.com/en/rest/users
+
+Apple iTunesStore WebServices Documentation:
+https://performance-partners.apple.com/search-api
+
+Modifying JSON:
+https://www.youtube.com/watch?v=t-ZK9tvF97k&t=0s&ab_channel=StewartLynch
+
+QuickType.io:
+https://app.quicktype.io/
+
+Ducky Model Editor:
+https://www.youtube.com/watch?v=AXpnBfjBYRY&t=0s&ab_channel=StewartLynch
+
+JSONPlaceholder:
+https://jsonplaceholder.typicode.com/
